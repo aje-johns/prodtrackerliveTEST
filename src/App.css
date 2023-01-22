@@ -1,0 +1,18 @@
+.main {
+  padding-top: 30px;
+}
+.text-center {
+  text-align: center;
+  color: rgb(107, 105, 144);
+}
+.border {
+  padding: 15px;
+  border: 1px solid rgb(116, 153, 160);
+}
+.end-btn {
+  background-color: #cf2440;
+}
+.add-to-table-btn {
+  background-color: rgb(21, 250, 178);
+  color: rgb(120, 116, 116);
+}
