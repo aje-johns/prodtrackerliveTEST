@@ -149,6 +149,9 @@ function App() {
   return (
     <>
       <main className="container main">
+        <header>
+          <nav></nav>
+        </header>
         <section className="grid">
           <div className="form-sec">
             <form>
